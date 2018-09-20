@@ -1,0 +1,15 @@
+{
+  "name": "delft-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sjors Provoost <sjors@blockchain.info>",
+  "license": "ISC",
+  "dependencies": {
+    "blockchain-wallet-client": "github:blockchain/my-wallet-v3#v3.22.24",
+    "xmlhttprequest": "^1.8.0"
+  }
+}

@@ -1,0 +1,8 @@
+digraph {
+  rankdir="LR"
+
+  Core [ 
+    shape="record"
+    label="Bitcoin Core|Master Private Key|Keypool: private keys|Addresses (receive, change)"
+  ]
+}

@@ -1,0 +1,15 @@
+digraph {
+  rankdir="LR"
+
+  Core [ 
+    shape="record"
+    label="Bitcoin Core|watch-only|Keypool: HWW public keys|Addresses (receive, change)"
+  ]
+
+  HWW [ 
+    shape="record"
+    label="Hardware Wallet|Private keys"
+  ]
+
+  Core -> HWW [ arrowhead="empty" label="sign tx" ]
+}
