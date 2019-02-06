@@ -1,0 +1,15 @@
+digraph {
+  rankdir="RL"
+
+  Core [ 
+    shape="record"
+    label="Bitcoin Core|watch-only|Keypool: empty|Addresses: empty"
+  ]
+
+  HWW [ 
+    shape="record"
+    label="Hardware Wallet|Private keys"
+  ]
+
+  HWW -> Core [ arrowhead="empty" label="pubkeys" ]
+}

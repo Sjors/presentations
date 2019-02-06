@@ -1,0 +1,8 @@
+digraph {
+  rankdir="RL"
+
+  Core [ 
+    shape="record"
+    label="Bitcoin Core|watch-only|Keypool: HWW public keys|Addresses (receive)"
+  ]
+}
