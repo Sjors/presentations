@@ -1,6 +1,6 @@
 # Presentations
 
-* 2019-02: Advancing Bitcoin, London: [Hardware wallets with Bitcoin Core](https://github.com/Sjors/presentations/raw/master/2019/02/advancing/2019-02-08%20London%20-%20Advancing%20Bitcoin/2019-02%20London%20Advancing%20Bitcoin.pdf)
+* 2019-02: Advancing Bitcoin, London: [Hardware wallets with Bitcoin Core](https://github.com/Sjors/presentations/blob/master/2019-02-08%20London%20-%20Advancing%20Bitcoin/2019-02%20London%20Advancing%20Bitcoin.pdf) ([video](https://vimeo.com/316634495))
 * 2019-02: Odyssey Tech Deep Dive, Den Bosch: [Building on Bitcoin with RGB](https://github.com/Sjors/presentations/raw/master/2019-02-04%20Den%20Bosch%20-%20Odyssey%20Tech%20Deep%20Dive/2019-02%20Odyssey%20Tech%20Deep%20Dive.pdf) ([video](https://www.youtube.com/watch?v=PgeqT6ruBWU), [ETH Giveaway](/2019-02-04%20Den%20Bosch%20-%20Odyssey%20Tech%20Deep%20Dive/ETH_GIVEAWAY.md))
 * 2018-09: London Bitcoin Devs: [hardware wallets with Bitcoin Core](https://github.com/Sjors/presentations/raw/master/2018-09-19%20London%20Bitcoin%20Devs/2018-09%20London%20Bitcoin%20Devs%200.5.pdf) ([video](https://www.youtube.com/watch?v=SUDkYbkcTsQ))
 * 2018-03: CodeBlock London - [Bitcoin intro](https://github.com/Sjors/presentations/raw/master/2018-03-24%20CodeBlock%20London/2018-03%20Code%20Block%20London.pdf) (no video)
